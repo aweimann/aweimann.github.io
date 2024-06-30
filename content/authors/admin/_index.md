@@ -48,7 +48,8 @@ profiles:
 
 interests:
   - Microbiology
-  - Infection genomics
+  - Evolutionary biology
+  - Statistical and structural genomics
   - Machine learning
 
 education:
