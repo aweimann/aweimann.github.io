@@ -92,12 +92,14 @@ work:
     company_logo: ''
     date_start: 2018-04-01
     date_end: ''
+    summary: ''
   - position: Visiting postdoctoral fellow
     company_name: Thomson Lab, Wellcome Sanger Institute
     company_url: ''
     company_logo: ''
      date_start: 2019-07-01
     date_end: ''
+    summary: ''
 #    summary: |2-
 #      Responsibilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -109,6 +111,7 @@ work:
     company_logo: ''
     date_start: 2019-07-01
     date_end: ''
+    summary: ''
 #    summary: |
 #      Responsibilities include:
 #      - Migrated infrastructure to a new data center
@@ -121,6 +124,7 @@ work:
   company_logo: ''
   date_start: 2019-07-01
   date_end: ''
+  summary: ''
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
