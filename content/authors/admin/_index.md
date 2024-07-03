@@ -102,7 +102,7 @@ work:
     date_end: ''
     summary: ''
 
-- position: 'Postdoctoral fellow'
+  - position: 'Postdoctoral fellow'
     company_name: 'Veterinary School, Parkhill Lab, University of Cambridge'
     company_url: ''
     company_logo: ''
@@ -110,7 +110,7 @@ work:
     date_end: ''
     summary: ''
 
-- position: 'Postdoctoral fellow'
+  - position: 'Postdoctoral fellow'
     company_name: 'Centre for AI in Medicine'
     date_start: 2021-03-01
     company_url: ''
