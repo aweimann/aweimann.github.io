@@ -47,23 +47,25 @@ profiles:
     url: https://orcid.org/0000-0003-4597-2471
 
 interests:
-  - Microbiology and infectious diseases
-  - Evolutionary biology and phylogenetics
-  - Statistical and structural genomics
+  - Microbiology
+  - Infectious diseases
+  - Evolutionary biology 
+  - Phylogenetics
+  - Statistical genomics
   - Machine learning and AI
 
-#education:
-  #- area: PhD Computer Science
-  #  institution: Heinrich Heine University of Duesseldorf
-  #  year: 2017
+education:
+  - area: PhD Computer Science
+    institution: Heinrich Heine University of Duesseldorf
+    year: 2017
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  #- area: MSc Bioinformatics
-  #  institution: Saarland University
-  #  year: 2010
+  - area: MSc Bioinformatics
+    institution: Saarland University
+    year: 2010
     # date_start: 2016-01-01
     # date_end: 2020-12-31
     #summary: |
@@ -73,9 +75,9 @@ interests:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #- area: BSc Bioinformatics
-  #  institution: Saarland University
-  #  year: 2008
+  - area: BSc Bioinformatics
+    institution: Saarland University
+    year: 2008
     #date_start: 2016-01-01
     #date_end: 2020-12-31
     #summary: |
@@ -192,5 +194,4 @@ languages:
 ---
 
 ## About Me
-
-I'm a researcher at the VPD Heart and Lung Research Institute at the University of Cambridge.  I'm interested in how bacteria evolve into pathogens.
+I'm interested in how bacterial pathogens evolve and adapt to humans using a range of interdiciplinary approaches: I investigate when and how pathogens emerge Bayesian phylodynamics. I analyse bacterial genomes to detect signatures of host adaptation using statistical genomics and I develop machine learning models to predict virulence behaviour and antimicrobial resistance integrating different omics data. 

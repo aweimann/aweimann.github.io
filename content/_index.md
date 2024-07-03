@@ -32,14 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My affiliation'
       subtitle: ''
       text: |-
-       I'm a research scientist at the VDP Heart and Lung Research Institute.
-
-        I interested in how bacteria evolve into pathogens
-        
-        Please reach out to collaborate.
+      '- Postdoctoral fewllow, VPD Heart and Lung Research Institute, University of Cambridge with Professor Andres Floto
+       - Visiting postdoctoral fellow at the University of Cambridge Veterinary School with Professor Julian Parkhill
+       - Visiting postdoctoral fellow at the Wellcome Trust Sanger Institute with Professor Nicholas Thomson
     design:
       columns: '1'
   - block: collection
