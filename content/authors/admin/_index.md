@@ -93,6 +93,7 @@ work:
     date_start: 2018-04-01
     date_end: ''
     summary: ''
+    
   - position: 'Visiting postdoctoral fellow'
     company_name: 'Thomson Lab, Wellcome Sanger Institute'
     company_url: ''
@@ -100,30 +101,22 @@ work:
     date_start: 2019-07-01
     date_end: ''
     summary: ''
-#    summary: |2-
-#      Responsibilities include:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: 'Postdoctoral fellow'
+
+- position: 'Postdoctoral fellow'
     company_name: 'Veterinary School, Parkhill Lab, University of Cambridge'
     company_url: ''
     company_logo: ''
     date_start: 2019-07-01
     date_end: ''
     summary: ''
-#    summary: |
-#      Responsibilities include:
-#      - Migrated infrastructure to a new data center
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 - position: 'Postdoctoral fellow'
-  company_name: 'Centre for AI in Medicine'
-  date_start: 2021-03-01
-  company_url: ''
-  company_logo: ''
-  date_end: ''
-  summary: ''
+    company_name: 'Centre for AI in Medicine'
+    date_start: 2021-03-01
+    company_url: ''
+    company_logo: ''
+    date_end: ''
+    summary: ''
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
