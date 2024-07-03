@@ -11,7 +11,7 @@ last_name: Weimann
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/aweimann
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/aaron-weimann-48725696/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=cA7YuLMAAAAJ&hl=en
   - icon: academicons/orcid
@@ -52,18 +52,18 @@ interests:
   - Statistical and structural genomics
   - Machine learning and AI
 
-education:
-  - area: PhD Computer Science
-    institution: Heinrich Heine University of Duesseldorf
-    year: 2017
+#education:
+  #- area: PhD Computer Science
+  #  institution: Heinrich Heine University of Duesseldorf
+  #  year: 2017
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: MSc Bioinformatics
-    institution: Saarland University
-    year: 2010
+  #- area: MSc Bioinformatics
+  #  institution: Saarland University
+  #  year: 2010
     # date_start: 2016-01-01
     # date_end: 2020-12-31
     #summary: |
@@ -73,9 +73,9 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Bioinformatics
-    institution: Saarland University
-    year: 2008
+  #- area: BSc Bioinformatics
+  #  institution: Saarland University
+  #  year: 2008
     #date_start: 2016-01-01
     #date_end: 2020-12-31
     #summary: |
@@ -85,9 +85,9 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#work:
-#  - position: Director of Cloud Infrastructure
-#    company_name: GenCoin
+work:
+  - position: Visiting postdoctoral fellow
+    company_name: Thomson Lab, Wellcome Sanger Institute
 #    company_url: ''
 #    company_logo: ''
 #    date_start: 2021-01-01
@@ -97,8 +97,10 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Backend Software Engineer
-#    company_name: X
+  - position: Postdoctoral fellow
+    company_name: Floto Lab, HLRI University of Cambridge
+  - position: Postdoctoral fellow
+    company_name: Veterinary School, Parkhill Lab, University of Cambridge
 #    company_url: ''
 #    company_logo: ''
 #    date_start: 2016-01-01
@@ -108,7 +110,8 @@ education:
 #      - Migrated infrastructure to a new data center
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+- position: Postdoctoral fellow
+  company_name: Centre for AI in Medicine
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:

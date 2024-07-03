@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Aaron Weimann's personal acdemic website
+title: Aaron Weimann's personal academic website
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://aweimann.github.io'
 
 ############################
 ## LANGUAGE
