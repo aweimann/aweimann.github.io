@@ -90,7 +90,7 @@ work:
     company_name: Thomson Lab, Wellcome Sanger Institute
 #    company_url: ''
 #    company_logo: ''
-#    date_start: 2021-01-01
+     date_start: 2019-07-01
 #    date_end: ''
 #    summary: |2-
 #      Responsibilities include:
@@ -103,7 +103,7 @@ work:
     company_name: Veterinary School, Parkhill Lab, University of Cambridge
 #    company_url: ''
 #    company_logo: ''
-#    date_start: 2016-01-01
+    date_start: 2019-07-01
 #    date_end: 2020-12-31
 #    summary: |
 #      Responsibilities include:
@@ -112,6 +112,7 @@ work:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 - position: Postdoctoral fellow
   company_name: Centre for AI in Medicine
+  date_start: 2021-03-01
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
