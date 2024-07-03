@@ -47,10 +47,10 @@ profiles:
     url: https://orcid.org/0000-0003-4597-2471
 
 interests:
-  - Microbiology
-  - Evolutionary biology
+  - Microbiology and infectious diseases
+  - Evolutionary biology and phylogenetics
   - Statistical and structural genomics
-  - Machine learning
+  - Machine learning and AI
 
 education:
   - area: PhD Computer Science
