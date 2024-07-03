@@ -86,18 +86,18 @@ interests:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Postdoctoral fellow
-    company_name: Floto Lab, HLRI University of Cambridge
+  - position: 'Postdoctoral fellow'
+    company_name: 'Floto Lab, HLRI University of Cambridge'
     company_url: ''
     company_logo: ''
     date_start: 2018-04-01
     date_end: ''
     summary: ''
-  - position: Visiting postdoctoral fellow
-    company_name: Thomson Lab, Wellcome Sanger Institute
+  - position: 'Visiting postdoctoral fellow'
+    company_name: 'Thomson Lab, Wellcome Sanger Institute'
     company_url: ''
     company_logo: ''
-     date_start: 2019-07-01
+    date_start: 2019-07-01
     date_end: ''
     summary: ''
 #    summary: |2-
@@ -105,8 +105,8 @@ work:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Postdoctoral fellow
-    company_name: Veterinary School, Parkhill Lab, University of Cambridge
+  - position: 'Postdoctoral fellow'
+    company_name: 'Veterinary School, Parkhill Lab, University of Cambridge'
     company_url: ''
     company_logo: ''
     date_start: 2019-07-01
