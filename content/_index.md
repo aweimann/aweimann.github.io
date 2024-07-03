@@ -35,9 +35,10 @@ sections:
       title: 'My affiliation'
       subtitle: ''
       text: |-
-        - Postdoctoral fewllow, VPD Heart and Lung Research Institute, University of Cambridge with Professor Andres Floto
-        - Visiting postdoctoral fellow at the University of Cambridge Veterinary School with Professor Julian Parkhill
-        - Visiting postdoctoral fellow at the Wellcome Trust Sanger Institute with Professor Nicholas Thomson
+        - Postdoctoral fellow, VPD Heart and Lung Research Institute, University of Cambridge with Professor Andres Floto
+        - Postdoctoral associate at the Cambridge Center of AI in Medicine
+        - Visiting postdoctoral fellow, University of Cambridge Veterinary School with Professor Julian Parkhill
+        - Visiting postdoctoral fellow, Wellcome Trust Sanger Institute with Professor Nicholas Thomson
     design:
       columns: '1'
   - block: collection
