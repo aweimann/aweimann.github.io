@@ -86,25 +86,29 @@ interests:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Postdoctoral fellow
+    company_name: Floto Lab, HLRI University of Cambridge
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-04-01
+    date_end: ''
   - position: Visiting postdoctoral fellow
     company_name: Thomson Lab, Wellcome Sanger Institute
-#    company_url: ''
-#    company_logo: ''
+    company_url: ''
+    company_logo: ''
      date_start: 2019-07-01
-#    date_end: ''
+    date_end: ''
 #    summary: |2-
 #      Responsibilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Postdoctoral fellow
-    company_name: Floto Lab, HLRI University of Cambridge
-  - position: Postdoctoral fellow
     company_name: Veterinary School, Parkhill Lab, University of Cambridge
-#    company_url: ''
-#    company_logo: ''
+    company_url: ''
+    company_logo: ''
     date_start: 2019-07-01
-#    date_end: 2020-12-31
+    date_end: ''
 #    summary: |
 #      Responsibilities include:
 #      - Migrated infrastructure to a new data center
@@ -113,6 +117,10 @@ work:
 - position: Postdoctoral fellow
   company_name: Centre for AI in Medicine
   date_start: 2021-03-01
+  company_url: ''
+  company_logo: ''
+  date_start: 2019-07-01
+  date_end: ''
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
