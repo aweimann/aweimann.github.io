@@ -117,12 +117,11 @@ work:
 #      - Migrated infrastructure to a new data center
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-- position: Postdoctoral fellow
-  company_name: Centre for AI in Medicine
+- position: 'Postdoctoral fellow'
+  company_name: 'Centre for AI in Medicine'
   date_start: 2021-03-01
   company_url: ''
   company_logo: ''
-  date_start: 2019-07-01
   date_end: ''
   summary: ''
 # Skills
