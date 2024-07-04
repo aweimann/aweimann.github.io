@@ -1,5 +1,6 @@
 ---
 title: Evolution and host-specific adaptation of Pseudomonas aeruginosa
+featured: true
 authors:
 - Aaron Weimann
 - Aaron Dinan
