@@ -1,6 +1,10 @@
 ---
 title: Predicting antimicrobial resistance in Pseudomonas aeruginosa with machine
   learning-enabled molecular diagnostics
+summary:  By training machine learning classifiers on information
+  about the presence or absence of genes, their sequence variation, and expression
+  profiles, we generated predictive models and identified biomarkers of resistance
+  to four commonly administered antimicrobial drugs. 
 authors:
 - Ariane Khaledi*
 - Aaron Weimann*
@@ -18,7 +22,8 @@ authors:
 - Alice C McHardy
 - Susanne Häussler
 date: '2020-03-01'
-publishDate: '2024-06-30T12:48:55.604566Z'
+features: true
+publishDate: '2020-08-30T12:48:55.604566Z'
 publication_types:
 - article-journal
 publication: '*EMBO Mol. Med.*'

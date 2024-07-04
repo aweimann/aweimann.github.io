@@ -16,7 +16,9 @@ authors:
 - Stephen D Bentley
 - Julian Parkhill
 date: '2020-07-01'
-publishDate: '2024-06-30T12:48:55.629359Z'
+publishDate: '2020-07-02T12:48:55.629359Z'
+featured: true
+summary: Panaroo is a a graph-based pangenome clustering tool that is able to account for many of the sources of error introduced during the annotation of prokaryotic genome assemblies. It's available at https://github.com/gtonkinhill/panaroo.
 publication_types:
 - article-journal
 publication: '*Genome Biol.*'
