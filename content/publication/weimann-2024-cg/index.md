@@ -1,5 +1,6 @@
 ---
-title: Evolution and host-specific adaptation of textitPseudomonas aeruginosa
+title: Evolution and host-specific adaptation of Pseudomonas aeruginosa
+summary: We describe how Pseudmonas aeruginosa has evolved over the last 200 years into a global pathogen via horizontal gene transfer and then further specialised to infect people with cystic fibrosis or without via convergent molecular evolution.
 authors:
 - Aaron Weimann
 - Adam M Dinan
