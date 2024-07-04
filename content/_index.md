@@ -32,11 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My affiliation'
+      title: 'My affiliations'
       subtitle: ''
       text: |-
         - Postdoctoral fellow, VPD Heart and Lung Research Institute, University of Cambridge with Professor Andres Floto
-        - Postdoctoral associate at the Cambridge Center of AI in Medicine
+        - Postdoctoral associate, Cambridge Center of AI in Medicine (CCAIM)
         - Visiting postdoctoral fellow, University of Cambridge Veterinary School with Professor Julian Parkhill
         - Visiting postdoctoral fellow, Wellcome Trust Sanger Institute with Professor Nicholas Thomson
     design:

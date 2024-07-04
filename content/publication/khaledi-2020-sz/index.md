@@ -22,7 +22,7 @@ authors:
 - Alice C McHardy
 - Susanne Häussler
 date: '2020-03-01'
-features: true
+featured: true
 publishDate: '2020-08-30T12:48:55.604566Z'
 publication_types:
 - article-journal
